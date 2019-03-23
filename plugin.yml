@@ -1,0 +1,6 @@
+name: TokenAPI-Example
+author: Patrick15a <patrick15a@myfilehost.de>
+version: 1.0
+depend: [CoinsAPI]
+
+main: de.patrick15a.tokenAPI.example.Main
